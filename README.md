@@ -20,9 +20,9 @@ I’m currently working on **Machine Learning** and exploring its applications i
 
 ## 🚀 Projects  
 
-- 📧 [Spam Email Detector](https://github.com/yourusername/spam-email-detector) — ML-based email classifier  
-- 🤖 IoT Object Detection & Distance Measurement — ESP32 + ultrasonic sensor + buzzer + LED  
-- 🎨 Self-synced Lights — Arduino project that changes colors based on images  
+- 📧 [Spam Email Detector](https://github.com/yourusername/spam-email-detector) — ML-based email classifier
+-    [gesture_based_snake_control_game](https://github.com/varunn-kr/gesture_based_snake_control_game) -ML based 
+
 
 *(More projects on my [repositories](https://github.com/yourusername?tab=repositories))*  
 
