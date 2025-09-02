@@ -30,7 +30,7 @@ I’m currently working on **Machine Learning** and exploring its applications i
 
 ## 📊 GitHub Stats  
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun&show_icons=true&theme=radical)
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunn-kr&show_icons=true&theme=radical)
 
 ---
 
