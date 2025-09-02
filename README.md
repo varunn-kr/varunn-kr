@@ -24,7 +24,7 @@ I’m currently working on **Machine Learning** and exploring its applications i
 -    [gesture_based_snake_control_game](https://github.com/varunn-kr/gesture_based_snake_control_game) -ML based 
 
 
-*(More projects on my [repositories](https://github.com/yourusername?tab=repositories))*  
+*(More projects on my [repositories](https://github.com/varunn-kr?tab=repositories))*  
 
 ---
 
