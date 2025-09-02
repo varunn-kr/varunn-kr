@@ -7,8 +7,8 @@ I’m currently working on **Machine Learning** and exploring its applications i
 ## 🖥 Knowledge  
 
 ### 💻 Software  
-- **Python** & **C++**  
-- Machine Learning & Data Science  
+- Python & C++  
+- Machine Learning   
 - Real-time applications with IoT + ML
   
 ### 🔧 Hardware  
