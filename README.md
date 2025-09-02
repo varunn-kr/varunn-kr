@@ -4,16 +4,17 @@ I’m currently working on **Machine Learning** and exploring its applications i
 
 ---
 
-## 🖥️ Knowledge  
-
-### 🔧 Hardware  
-- IoT Development with **ESP32** & **Arduino**  
-- Sensor integration & hardware prototyping  
+## 🖥 Knowledge  
 
 ### 💻 Software  
 - **Python** & **C++**  
 - Machine Learning & Data Science  
-- Real-time applications with IoT + ML  
+- Real-time applications with IoT + ML
+  
+### 🔧 Hardware  
+- IoT Development with **ESP32** & **Arduino**  
+- Sensor integration & hardware prototyping  
+
 
 ---
 
@@ -29,8 +30,7 @@ I’m currently working on **Machine Learning** and exploring its applications i
 
 ## 📊 GitHub Stats  
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)  
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun&show_icons=true&theme=radical)
 
 ---
 
